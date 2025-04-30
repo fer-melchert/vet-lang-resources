@@ -1,0 +1,9 @@
+# NLP Tools
+
+Tools and models for computational processing of Venetian.
+
+Contents:
+- Tokenizers and lemmatizers
+- POS taggers or morphological analyzers
+- Pre-trained models (where applicable)
+- Jupyter notebooks or Python scripts
