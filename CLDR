@@ -1,0 +1,8 @@
+# CLDR
+
+Files and proposals related to CLDR (Common Locale Data Repository) and system-level language support.
+
+Contents:
+- Date, time, number, and currency formatting
+- Localized names for days, months, etc.
+- Language proposal documentation (for Apple, Google, etc.)
