@@ -1,0 +1,9 @@
+# Lexicon
+
+Standardized vocabulary files for use in spellchecking and natural language processing (NLP).
+
+Contents:
+- Frequency wordlists
+- Part-of-speech tagged lexicons
+- Dictionaries for NLP applications
+- CSV, JSON, or XML formats for use in tools
