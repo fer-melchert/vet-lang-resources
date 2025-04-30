@@ -1,0 +1,9 @@
+# Spellchecker
+
+Configuration files for spellcheckers supporting Venetian.
+
+Contents:
+- Hunspell dictionaries (.aff and .dic files)
+- LanguageTool grammar and spelling rules
+- Wordlists and filter rules
+- Integration instructions for LibreOffice, Firefox, etc.
